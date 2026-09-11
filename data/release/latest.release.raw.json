@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1788732,
       "digest": "sha256:dbdf114e88035c85953a618628d1fa948f537234f9b7ceecaf01951f748b52b2",
-      "download_count": 47,
+      "download_count": 50,
       "created_at": "2026-06-11T08:24:40Z",
       "updated_at": "2026-06-11T08:24:41Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.9.3/tmuxwatch_0.9.3_linux_amd64.tar.gz"
