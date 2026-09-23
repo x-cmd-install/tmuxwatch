@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1658078,
       "digest": "sha256:9e7e72aa33686140542530216b984d9669bc0484eca1b702ca75f382bfda2c3b",
-      "download_count": 48,
+      "download_count": 51,
       "created_at": "2026-09-14T15:25:05Z",
       "updated_at": "2026-09-14T15:25:05Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.10.1/tmuxwatch_0.10.1_darwin_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1775645,
       "digest": "sha256:98a685500974dc520143fa7868ea016793bf0d8645cf168d8916cfcf1994d83a",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-09-14T15:25:06Z",
       "updated_at": "2026-09-14T15:25:06Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.10.1/tmuxwatch_0.10.1_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1621652,
       "digest": "sha256:9a994e6e40d11571f49829e4118e576239208b162e41e3e1fd038534ae46e56a",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-14T15:25:06Z",
       "updated_at": "2026-09-14T15:25:06Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.10.1/tmuxwatch_0.10.1_linux_arm64.tar.gz"
