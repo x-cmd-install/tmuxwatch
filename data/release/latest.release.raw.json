@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1775645,
       "digest": "sha256:98a685500974dc520143fa7868ea016793bf0d8645cf168d8916cfcf1994d83a",
-      "download_count": 35,
+      "download_count": 37,
       "created_at": "2026-09-14T15:25:06Z",
       "updated_at": "2026-09-14T15:25:06Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.10.1/tmuxwatch_0.10.1_linux_amd64.tar.gz"
