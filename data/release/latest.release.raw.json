@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 870,
       "digest": "sha256:4f956448d4f6d5020fc83dc4e904ab1d589b55462474de79ee03df21ba5d183e",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-10-24T03:56:47Z",
       "updated_at": "2026-10-24T03:56:47Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 476,
       "digest": "sha256:51e57ec02025a17b13fee9a55c980020e0b7616a469f845d884de5604e17cb49",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-24T03:56:46Z",
       "updated_at": "2026-10-24T03:56:46Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/RELEASE-NOTES.md"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1838038,
       "digest": "sha256:02fa69d5da3baae4eb9cf426a9df539c26c4455cf5b46edef6f799d28bfe519a",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-24T03:56:47Z",
       "updated_at": "2026-10-24T03:56:48Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/tmuxwatch_0.10.2_darwin_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1652427,
       "digest": "sha256:3a7bce1ea7a92b81f54c5f9ced3d37cc5e864af88e3976cea70157fc2f634f58",
-      "download_count": 63,
+      "download_count": 64,
       "created_at": "2026-10-24T03:56:48Z",
       "updated_at": "2026-10-24T03:56:49Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/tmuxwatch_0.10.2_darwin_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1805090,
       "digest": "sha256:c61772809876f7189b60362eddbfc89d418aaffe3fc3b5be1a59aeef33079578",
-      "download_count": 23,
+      "download_count": 25,
       "created_at": "2026-10-24T03:56:49Z",
       "updated_at": "2026-10-24T03:56:50Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/tmuxwatch_0.10.2_linux_amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1782703,
       "digest": "sha256:5a827335cfb73df77046b86894d9170b593b10517b0faab72e61d5b5eeade594",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-24T03:56:51Z",
       "updated_at": "2026-10-24T03:56:52Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/tmuxwatch_0.10.2_windows_amd64.zip"
