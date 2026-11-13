@@ -38,7 +38,7 @@ Total: **4,735** lines of code across **58** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 227 · **Forks**: 16 · **Open issues**: 4 · **Contributors**: 3
+- **Stars**: 228 · **Forks**: 16 · **Open issues**: 4 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **4,735** lines of code across **58** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 3 | 4 | 0 | 0 | 3 |
-| last60d | 2026-09-13 | 3 | 6 | 4 | 0 | 0 | 3 |
-| 90d | 2026-08-14 | 3 | 7 | 4 | 0 | 0 | 9 |
-| last180d | 2026-05-16 | 4 | 12 | 4 | 0 | 0 | 18 |
-| 360d | 2025-11-17 | 5 | 13 | 4 | 0 | 0 | 36 |
-| last720d | 2024-11-22 | 7 | 16 | 4 | 4 | 0 | 160 |
+| 30d | 2026-10-14 | 1 | 3 | 4 | 0 | 0 | 3 |
+| last60d | 2026-09-14 | 3 | 3 | 4 | 0 | 0 | 3 |
+| 90d | 2026-08-15 | 3 | 7 | 4 | 0 | 0 | 9 |
+| last180d | 2026-05-17 | 4 | 12 | 4 | 0 | 0 | 18 |
+| 360d | 2025-11-18 | 5 | 13 | 4 | 0 | 0 | 36 |
+| last720d | 2024-11-23 | 7 | 16 | 4 | 4 | 0 | 160 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for tmuxwatch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:44:29Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:04:24Z._
