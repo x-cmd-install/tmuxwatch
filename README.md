@@ -14,11 +14,11 @@ x install tmuxwatch
 
 ## Code insight
 
-Total: **4,735** lines of code across **58** files in the top 5 languages.
+Total: **4,941** lines of code across **58** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 4,455 | 239 | 568 | 49 |
+| Go | 4,661 | 244 | 585 | 49 |
 | Sh | 99 | 5 | 25 | 4 |
 | Nix | 64 | 0 | 11 | 1 |
 | Python | 54 | 2 | 14 | 2 |
@@ -33,27 +33,27 @@ Total: **4,735** lines of code across **58** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.10.2` (2026-10-24)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-11-14
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 228 · **Forks**: 16 · **Open issues**: 4 · **Contributors**: 3
+- **Stars**: 229 · **Forks**: 16 · **Open issues**: 4 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 16 · **Open PRs**: 1 · **Closed issues**: 4 · **Open issues**: 0 · **Commits**: 160
+- **Releases**: 7 · **Merged PRs**: 17 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 0 · **Commits**: 161
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 3 | 1 | 0 | 0 | 3 |
-| last60d | 2026-09-15 | 1 | 3 | 1 | 0 | 0 | 3 |
-| 90d | 2026-08-16 | 3 | 7 | 1 | 0 | 0 | 9 |
-| last180d | 2026-05-18 | 4 | 12 | 1 | 0 | 0 | 18 |
-| 360d | 2025-11-19 | 4 | 13 | 1 | 0 | 0 | 36 |
-| last720d | 2024-11-24 | 7 | 16 | 1 | 4 | 0 | 160 |
+| 30d | 2026-10-16 | 1 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-16 | 1 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-17 | 3 | 8 | 0 | 0 | 0 | 10 |
+| last180d | 2026-05-19 | 4 | 13 | 0 | 0 | 0 | 19 |
+| 360d | 2025-11-20 | 4 | 14 | 0 | 0 | 0 | 37 |
+| last720d | 2024-11-25 | 7 | 17 | 0 | 4 | 0 | 161 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for tmuxwatch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:08:51Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:54:55Z._
