@@ -32,43 +32,43 @@ Total: **4,941** lines of code across **58** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.10.2` (2026-10-24)
-- **Last commit**: 2026-11-14
+- **Latest**: `v0.10.3` (2026-11-16)
+- **Last commit**: 2026-11-16
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 229 · **Forks**: 16 · **Open issues**: 4 · **Contributors**: 3
+- **Stars**: 230 · **Forks**: 16 · **Open issues**: 4 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 17 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 0 · **Commits**: 161
+- **Releases**: 8 · **Merged PRs**: 18 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 0 · **Commits**: 162
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 4 | 0 | 0 | 0 | 4 |
-| last60d | 2026-09-16 | 1 | 4 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-17 | 3 | 8 | 0 | 0 | 0 | 10 |
-| last180d | 2026-05-19 | 4 | 13 | 0 | 0 | 0 | 19 |
-| 360d | 2025-11-20 | 4 | 14 | 0 | 0 | 0 | 37 |
-| last720d | 2024-11-25 | 7 | 17 | 0 | 4 | 0 | 161 |
+| 30d | 2026-10-17 | 2 | 5 | 0 | 0 | 0 | 4 |
+| last60d | 2026-09-17 | 2 | 5 | 0 | 0 | 0 | 5 |
+| 90d | 2026-08-18 | 4 | 9 | 0 | 0 | 0 | 11 |
+| last180d | 2026-05-20 | 5 | 14 | 0 | 0 | 0 | 20 |
+| 360d | 2025-11-21 | 5 | 15 | 0 | 0 | 0 | 33 |
+| last720d | 2024-11-26 | 8 | 18 | 0 | 4 | 0 | 162 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ASSET-INVENTORY.json](https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/ASSET-INVENTORY.json) | 1.6 KiB | `other` |
-| [checksums.txt](https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/checksums.txt) | 870 B | `other` |
-| [RELEASE-NOTES.md](https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/RELEASE-NOTES.md) | 476 B | `other` |
-| [SIGNING-MANIFEST.json](https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/SIGNING-MANIFEST.json) | 1.2 KiB | `other` |
-| [tmuxwatch_0.10.2_darwin_amd64.tar.gz](https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/tmuxwatch_0.10.2_darwin_amd64.tar.gz) | 1.8 MiB | `native/darwin/x64` |
-| [tmuxwatch_0.10.2_darwin_arm64.tar.gz](https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/tmuxwatch_0.10.2_darwin_arm64.tar.gz) | 1.6 MiB | `native/darwin/arm64` |
-| [tmuxwatch_0.10.2_linux_amd64.tar.gz](https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/tmuxwatch_0.10.2_linux_amd64.tar.gz) | 1.7 MiB | `native/linux/x64` |
-| [tmuxwatch_0.10.2_linux_arm64.tar.gz](https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/tmuxwatch_0.10.2_linux_arm64.tar.gz) | 1.6 MiB | `native/linux/arm64` |
-| [tmuxwatch_0.10.2_windows_amd64.zip](https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/tmuxwatch_0.10.2_windows_amd64.zip) | 1.7 MiB | `native/win/x64` |
-| [tmuxwatch_0.10.2_windows_arm64.zip](https://github.com/steipete/tmuxwatch/releases/download/v0.10.2/tmuxwatch_0.10.2_windows_arm64.zip) | 1.5 MiB | `native/win/arm64` |
+| [ASSET-INVENTORY.json](https://github.com/steipete/tmuxwatch/releases/download/v0.10.3/ASSET-INVENTORY.json) | 1.6 KiB | `other` |
+| [checksums.txt](https://github.com/steipete/tmuxwatch/releases/download/v0.10.3/checksums.txt) | 870 B | `other` |
+| [RELEASE-NOTES.md](https://github.com/steipete/tmuxwatch/releases/download/v0.10.3/RELEASE-NOTES.md) | 625 B | `other` |
+| [SIGNING-MANIFEST.json](https://github.com/steipete/tmuxwatch/releases/download/v0.10.3/SIGNING-MANIFEST.json) | 1.2 KiB | `other` |
+| [tmuxwatch_0.10.3_darwin_amd64.tar.gz](https://github.com/steipete/tmuxwatch/releases/download/v0.10.3/tmuxwatch_0.10.3_darwin_amd64.tar.gz) | 1.8 MiB | `native/darwin/x64` |
+| [tmuxwatch_0.10.3_darwin_arm64.tar.gz](https://github.com/steipete/tmuxwatch/releases/download/v0.10.3/tmuxwatch_0.10.3_darwin_arm64.tar.gz) | 1.6 MiB | `native/darwin/arm64` |
+| [tmuxwatch_0.10.3_linux_amd64.tar.gz](https://github.com/steipete/tmuxwatch/releases/download/v0.10.3/tmuxwatch_0.10.3_linux_amd64.tar.gz) | 1.7 MiB | `native/linux/x64` |
+| [tmuxwatch_0.10.3_linux_arm64.tar.gz](https://github.com/steipete/tmuxwatch/releases/download/v0.10.3/tmuxwatch_0.10.3_linux_arm64.tar.gz) | 1.6 MiB | `native/linux/arm64` |
+| [tmuxwatch_0.10.3_windows_amd64.zip](https://github.com/steipete/tmuxwatch/releases/download/v0.10.3/tmuxwatch_0.10.3_windows_amd64.zip) | 1.7 MiB | `native/win/x64` |
+| [tmuxwatch_0.10.3_windows_arm64.zip](https://github.com/steipete/tmuxwatch/releases/download/v0.10.3/tmuxwatch_0.10.3_windows_arm64.zip) | 1.5 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for tmuxwatch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:54:55Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:28:09Z._
