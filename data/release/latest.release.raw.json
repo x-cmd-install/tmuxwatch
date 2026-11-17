@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1652799,
       "digest": "sha256:36daf4cb08d25d1535ca900fad715edde67843dfc2bbcae411e9caf25644c6c4",
-      "download_count": 5,
+      "download_count": 25,
       "created_at": "2026-11-16T07:53:29Z",
       "updated_at": "2026-11-16T07:53:30Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.10.3/tmuxwatch_0.10.3_darwin_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1805507,
       "digest": "sha256:1b4e5f1475ab39256c114653dd260e14cde831c75498de51fbdb7aeb315d394c",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-16T07:53:30Z",
       "updated_at": "2026-11-16T07:53:31Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.10.3/tmuxwatch_0.10.3_linux_amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1782582,
       "digest": "sha256:af14122b5b61cbcf33a00cc5cf665741f49e2e2384365028536f0516cc2fe868",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-16T07:53:32Z",
       "updated_at": "2026-11-16T07:53:32Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.10.3/tmuxwatch_0.10.3_windows_amd64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1597672,
       "digest": "sha256:6e37764a3748d9bd39b0b04676086463471686066f23cc0697c179c0086618a3",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-16T07:53:33Z",
       "updated_at": "2026-11-16T07:53:33Z",
       "browser_download_url": "https://github.com/steipete/tmuxwatch/releases/download/v0.10.3/tmuxwatch_0.10.3_windows_arm64.zip"
