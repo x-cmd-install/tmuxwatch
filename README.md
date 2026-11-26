@@ -48,12 +48,12 @@ Total: **4,941** lines of code across **58** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-26 | 2 | 5 | 0 | 0 | 0 | 5 |
-| 90d | 2026-08-27 | 4 | 9 | 0 | 0 | 0 | 11 |
-| last180d | 2026-05-29 | 5 | 14 | 0 | 0 | 0 | 20 |
-| 360d | 2025-11-30 | 5 | 15 | 0 | 0 | 0 | 33 |
-| last720d | 2024-12-05 | 8 | 18 | 0 | 4 | 0 | 162 |
+| 30d | 2026-10-27 | 1 | 2 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 2 | 5 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 4 | 9 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 5 | 14 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 5 | 15 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-06 | 8 | 18 | 0 | 4 | 0 | 162 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for tmuxwatch lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:55:10Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:48:46Z._
